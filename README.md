@@ -7,7 +7,8 @@
 - Compile parsingFromFile.ts with tsc
 
 ## Running tool
-- In a terminal window, cd to project root
+- Download and unzip this repo
+- In a terminal or command prompt window, cd to project root
 - run `sbt "runMain driver.JavaDriver"`
 - When prompted, enter path to model file
   - File must be in same format as example provided on Lambdanet github
