@@ -1,5 +1,9 @@
 # LNTool
 
+## Notes
+- Developed in MacOS environment, tested build/install/execution on MacOS and Windows environments
+- Source code to challenge: driver.JavaDriver (also edited scala files as needed)
+
 ## Preparing build environment
 - Install [sbt](https://www.scala-sbt.org/download.html) to manage dependecies 
   - You may need to update path to include sbt
@@ -24,5 +28,5 @@
 - Program will output top five predictions for each case
 ![Input](images/result.png)
 
-## Notes
-- Developed in MacOS environment, tested build/install/execution on MacOS and Windows environments
+
+
