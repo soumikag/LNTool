@@ -2,6 +2,7 @@
 
 ## Preparing build environment
 - Install [sbt](https://www.scala-sbt.org/download.html) to manage dependecies 
+  - You may need to update path to include sbt
 - If using provided test case, download model weights [here](https://drive.google.com/file/d/1NvEVQ4-5tC3Nc-Mzpu3vYeyEcaM_zEgV/view?usp=sharing)
   - Unzip and place 'models' file under project root
 - Compile parsingFromFile.ts with tsc
