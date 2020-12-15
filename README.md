@@ -23,3 +23,6 @@
   - If using provided project, enter `data/ts-algorithms`
 - Program will output top five predictions for each case
 ![Input](images/result.png)
+
+## Notes
+- Developed in MacOS environment, tested build/install/execution on MacOS and Windows environments
